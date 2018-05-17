@@ -38,13 +38,3 @@ Vous pouvez retrouver les consignes [sur ce repo.](https://github.com/becodeorg/
 1. [Code et mise en évidence de la syntaxe](https://github.com/SammuelJ/exercice-markdown/blob/master/markdown.md#tableaux---table)
 1. [Bloc de citation(s) - Blockquotes](https://github.com/SammuelJ/exercice-markdown/blob/master/markdown.md#tableaux---table)
 1. [Ligne horizontale](https://github.com/SammuelJ/exercice-markdown/blob/master/markdown.md#tableaux---table)
-
-
-
-## Contributeurs :
-
-[@ClaudiuCornea - Claudiu Cornea](https://github.com/ClaudiuCornea)  
-[@jiftuq - Chritophe Kwizera](https://github.com/jiftuq)  
-[@baptistefkt - Baptiste Firket](https://github.com/baptistefkt)  
-[@RomainVandevoorde - Romain Vandevoorde](https://github.com/RomainVandevoorde)  
-[@makemyA - Paul Henrot](https://github.com/makemyA)
